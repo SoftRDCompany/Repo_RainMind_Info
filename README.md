@@ -50,7 +50,7 @@ Para mantener este espacio útil y organizado, es importante:
 El conocimiento es más valioso cuando se comparte. Este repositorio busca facilitar el aprendizaje continuo, conservar información relevante y proporcionar a los integrantes de RainMind's un lugar al que puedan acudir cuando necesiten aprender, investigar o consultar algún tema.
 
 
-![Imagen de RainMind's](portada.png)
+![Imagen de RainMind's](logo_withou_back.png)
 
 **Un espacio para aprender, compartir y crecer juntos.**
 
